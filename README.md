@@ -50,7 +50,7 @@ You can install these dependencies using pip:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
-
+```
 
 ## Running the Notebook
 
